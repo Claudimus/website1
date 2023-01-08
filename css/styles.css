@@ -27,6 +27,7 @@ h3 {
 
 .squares{
     position: absolute;
+    object-fit:cover;
 }
 
 
