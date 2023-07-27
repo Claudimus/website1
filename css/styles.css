@@ -1,9 +1,10 @@
 body {
-     background-color: rgba(255, 254, 252, 0.947);
     font-display: swap;
     font-weight: 400;
     font-size: 14px;
     font-family: "Menlo", "Meslo LG", monospace;
+     margin: 0;
+    text-align: center
 
 }
 
